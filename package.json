@@ -2,7 +2,7 @@
  "name": "schroeder",
  "version": "0.1.0",
  "description": "Calculate Schroeder numbers",
- "keywords": ["schroeder", "numbers"],
+ "keywords": ["schroeder", "numbers", "math", "combinatorics"],
  "files": ["index.js"],
  "license": "MIT",
  "author": "Brandon Semilla (https://github.com/semibran)",
